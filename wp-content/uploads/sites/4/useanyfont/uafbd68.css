@@ -1,0 +1,19 @@
+			@font-face {
+				font-family: 'eu';
+				font-style: normal;
+				src: url('171121074727eu.eot');
+				src: local('eu'), url('171121074727eu.eot') format('embedded-opentype'), url('171121074727eu.woff') format('woff');
+			}
+            
+            .eu{font-family: 'eu' !important;}
+            
+						h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'eu' !important;
+				}
+						label{
+					font-family: 'eu' !important;
+				}
+						body{
+					font-family: 'eu' !important;
+				}
+		
